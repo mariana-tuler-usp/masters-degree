@@ -9,7 +9,7 @@ DATA_DICT = {
     "current_user_recently_played": "user-read-recently-played",
     "current_user_top_tracks": "user-top-read",
     "current_user_playlists": "playlist-read-private",
-}
+} 
 
 
 def main():
